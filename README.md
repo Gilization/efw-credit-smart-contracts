@@ -24,7 +24,7 @@ This project demonstrates how smart contracts can support traceable and verifiab
 
 If you use this repository, please cite:
 
-Gilbert Christian Caesario Siburian. (2026). efw-credit-smart-contracts [Source code]. GitHub.
+Author of "Bridging governance gaps in edible food waste rescue: a blockchain-enabled tax credit incentive framework". (2026). efw-credit-smart-contracts [Source code]. GitHub.
 
 ## License
 
