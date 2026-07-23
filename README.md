@@ -24,7 +24,7 @@ This project demonstrates how smart contracts can support traceable and verifiab
 
 If you use this repository, please cite:
 
-Author of "Bridging governance gaps in edible food waste rescue: a blockchain-enabled tax credit incentive framework". (2026). efw-credit-smart-contracts [Source code]. GitHub.
+Author of "Governing food rescue in emerging economies: a tax credit incentive framework for edible surplus redistribution in Indonesia". (2026). efw-credit-smart-contracts [Source code]. GitHub.
 
 ## License
 
